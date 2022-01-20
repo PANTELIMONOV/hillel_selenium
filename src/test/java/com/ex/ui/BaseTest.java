@@ -1,5 +1,6 @@
-package com.ex;
+package com.ex.ui;
 
+import com.ex.DriverInit;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
